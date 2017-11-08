@@ -47,7 +47,7 @@ public class DisplayDosCaracteres
     }
 
     /**
-     * Fija un nuevo valor para el display. Si el nuevo valor no es legal, 
+     * Fija un nuevo  valor para el display. Si el nuevo valor no es legal, 
      * entonces no hace nada.
      */
     public void setValorAlmacenado(int nuevoValor)
